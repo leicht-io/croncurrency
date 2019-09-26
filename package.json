@@ -1,6 +1,6 @@
 {
-  "name": "croncurrency",
-  "version": "0.0.1",
+  "name": "@leicht.io/croncurrency",
+  "version": "0.0.2",
   "description": "",
   "main": "./dist/CronCurrency.js",
   "types": "./dist/CronCurrency.d.ts",
